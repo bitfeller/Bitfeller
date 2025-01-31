@@ -12,6 +12,6 @@ A software developer who writes in several languages.
 - HTML/CSS/PHP
 - Python
 - Lua
-along with Apache/Nginx, SQL, etc.
+- along with Apache/Nginx, SQL, etc...
 
 Most of my repositories (ex. Bento, cyberpatriots, os) are unfortunately private for various reasons, so you'll only be able to see some of my repos.
