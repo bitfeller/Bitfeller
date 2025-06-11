@@ -14,12 +14,15 @@ A software developer who writes in several languages.
 - Lua
 - SQL
 ### Worked with:
-- Apache
-- Nginx
+- Apache, Nginx
 - MySQL/databases
 - Git
 - Unity
 - Godot
+
+#### Old Platforms I've worked on:
+- Roblox
+- Unity
 
 ## Projects:
 - [Bento!](https://bento-app.uk) - an SRS-based quizzing webapp designed to enhance learning.
