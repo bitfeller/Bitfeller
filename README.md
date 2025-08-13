@@ -28,6 +28,7 @@ A software developer who writes in several languages.
 - [Bento!](https://bento-app.uk) - an SRS-based quizzing webapp designed to enhance learning.
 - Intelligent Transformer (private) - a modified transformer incorporating NNs and optimized learning paths to speed up training.
 - Factorcrypt (private) - a slow but extremely cryptographically secure ensuring your data is secure.
-- other **very** old projects including [Platformer](https://gameworld15.epizy.com/theplatformer.html), a [Smart Notepad](https://www.gameworld15.epizy.com/notepad.html), etc.
+- other **very** old projects including a Platformer, a Smart Notepad, etc.
 
-Most of my repositories (ex. Bento, cyberpatriots, os, pkg-mgr) are unfortunately private for various reasons, so you'll only be able to see some of my repos.
+Most of my repositories (ex. Bento, cyberpatriots, os, pkg-mgr) are private for various reasons, so you'll only be able to see some of my repos.
+I do **not** release my code. Most of my projects are not listed.
