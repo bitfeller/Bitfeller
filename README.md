@@ -4,31 +4,27 @@ A software developer who writes in several languages.
 ### Low-level languages:
 - C, C#
 - Rust
-- Assembly (to a small extent)
+- .asm
 ### High-level languages:
 - JS/TS/Node.js
-- Bash
+- Python
 - Java (although not the biggest fan)
 - HTML/CSS/PHP
-- Python
 - Lua
-- SQL
+- SQL (MySQL, PostgreSQL)
+- Bash
 ### Worked with:
-- Apache, Nginx
-- MySQL/databases
-- Git
-- Unity
-- Godot
+- Git/GitHub (obviously)
+- Apache, Nginx; MySQL/PostgreSQL/storage databases
+- Linux (including Arch, Nix, Debian, etc.)
+- redis, memcache, other caching mechanisms
+- Node.js libraries, rust libraries; rust library creator (private)
+- Unity, Godot, Unreal Engine
+- Machine learning: NN, CNN, LSTM, transformers; supervised/unsupervised learning
+- Websites; OS development; etc.
+- older platforms that I don't really use anymore: roblox, etc.
 
-#### Old Platforms I've worked on:
-- Roblox
-- Unity
+Most of my projects and repositories, including more recent ones, are all private (save for a few) for various reasons (including code confidentiality, NDA, privacy, etc).
+My projects will **never** be released or public.
 
-## Projects:
-- [Bento!](https://bento-app.uk) - an SRS-based quizzing webapp designed to enhance learning.
-- Intelligent Transformer (private) - a modified transformer incorporating NNs and optimized learning paths to speed up training.
-- Factorcrypt (private) - a slow but extremely cryptographically secure ensuring your data is secure.
-- other **very** old projects including a Platformer, a Smart Notepad, etc.
-
-Most of my repositories (ex. Bento, cyberpatriots, os, pkg-mgr) are private for various reasons, so you'll only be able to see some of my repos.
-I do **not** release my code. Most of my projects are not listed.
+Feel free to contact me (if you have my details) for a portfolio of my projects and repositories.
