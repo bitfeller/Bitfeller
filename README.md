@@ -1,14 +1,14 @@
 # Hello.
-A software developer who writes in several languages.
+A software developer since 2017 who writes in several languages.
 
 ### Low-level languages:
-- C, C#
+- C, C++
 - Rust
 - .asm
+- Java
 ### High-level languages:
 - JS/TS/Node.js
 - Python
-- Java (although not the biggest fan)
 - HTML/CSS/PHP
 - Lua
 - SQL (MySQL, PostgreSQL)
