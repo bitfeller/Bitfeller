@@ -1,30 +1,34 @@
 # Hello.
-A software developer since 2017 who writes in several languages.
+A software developer and engineer since 2017 working in multiple languages, multiple environments, multiple scopes.
 
-### Low-level languages:
-- C, C++
+## Languages:
 - Rust
-- .asm
+- C, C++
+- x86 .asm
 - Java
-### High-level languages:
 - JS/TS/Node.js
 - Python
 - HTML/CSS/PHP
 - Lua
-- SQL (MySQL, PostgreSQL)
+- SQL (MySQL, PostgreSQL, SQLite)
 - Bash
-### Worked with:
-- Git/GitHub (obviously)
-- Apache, Nginx; MySQL/PostgreSQL/storage databases
-- Linux (including Arch, Nix, Debian, etc.)
-- redis, memcache, other caching mechanisms
-- Node.js libraries, rust libraries; rust library creator (private)
-- Unity, Godot, Unreal Engine
-- Machine learning: NN, CNN, LSTM, transformers; supervised/unsupervised learning
-- Websites; OS development; etc.
-- older platforms that I don't really use anymore: roblox, etc.
+- Kotlin
+## Worked with:
+- Git, GitHub (as can be seen)
+- Apache (as a web server), Nginx (as both a web server and reverse proxy)
+- MySQL/PostgreSQL/SQLite deployment/maintenance in Windows/Linux environments
+- Linux (Ubuntu, Debian, Red Hat, Arch Linux, NixOS, LFS, ...)
+- AWS EC2 servers (Amazon Linux, Ubuntu); AWS Valkey caches, AWS Aurora/RDS instance
+- Proxmox, Docker, etc.
+- Cross-platform protocol design
+- Cache servers: redis, memcache
+- Common libraries from most of the languages I write in
+- Unity, Unreal Engine
+- ML: neural networks + convolutional neural networks, LSTMs, transformers (all from scratch and with common libraries such as tensorflow/pytorch);
+- OS development, bootloaders
+- older platforms that I don't really work on anymore: Roblox, Godot, etc.
 
-Most of my projects and repositories, including more recent ones, are all private (save for a few) for various reasons (including code confidentiality, NDA, privacy, etc).
-My projects will **never** be released or public.
+Most of my projects and repositories, including more recent ones, are all private (save for a few) for various reasons (including code confidentiality, NDAs, sake of privacy, etc).
+My projects will **never** be released or public, except for some notable exceptions or "blank" repos.
 
 Feel free to contact me (if you have my details) for a portfolio of my projects and repositories.
